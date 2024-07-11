@@ -15,6 +15,7 @@ class RideController extends Controller
 
     public function store(Request $request)
     {
+        
         $validated = $request->validate([
             'driver_id' => 'required|exists:drivers,id',
             'user_id' => 'required|exists:users,id',
