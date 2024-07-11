@@ -82,18 +82,18 @@ Here are some images related to the project setup and various views:
 ![Register](/images/register.jpg)
 
 ### Additional Images
-![Image 1](/images/image-1.jpg)
-![Image 2](/images/image-2.jpg)
-![Image 3](/images/image-3.jpg)
-![Image 4](/images/image-4.jpg)
-![Image 5](/images/image-5.jpg)
-![Image 6](/images/image-6.jpg)
-![Image 7](/images/image-7.jpg)
-![Image 8](/images/image-8.jpg)
-![Image 9](/images/image-9.jpg)
-![Image 10](/images/image-10.jpg)
-![Image 11](/images/image-11.jpg)
-![Image 12](/images/image-12.jpg)
+![Image 1](/images/image-1.JPG)
+![Image 2](/images/image-2.JPG)
+![Image 3](/images/image-3.JPG)
+![Image 4](/images/image-4.JPG)
+![Image 5](/images/image-5.JPG)
+![Image 6](/images/image-6.JPG)
+![Image 7](/images/image-7.JPG)
+![Image 8](/images/image-8.JPG)
+![Image 9](/images/image-9.JPG)
+![Image 10](/images/image-10.JPG)
+![Image 11](/images/image-11.JPG)
+![Image 12](/images/image-12.JPG)
 ```
 
 ### Steps to Create the `README.md` File
