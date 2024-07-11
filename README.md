@@ -11,3 +11,12 @@ DB_PORT=3306
 DB_DATABASE=ride_hailing
 DB_USERNAME=root
 DB_PASSWORD=
+
+**3. Authentication**
+Set up authentication using Laravel Breeze for simple authentication:
+
+**composer require laravel/breeze --dev
+php artisan breeze:install
+npm install && npm run dev
+php artisan migrate
+**
