@@ -2,8 +2,6 @@
 
 First, you'll need to install Laravel. Ensure you have Composer installed on your system, then create a new Laravel project:
 
-**composer create-project --prefer-dist laravel/laravel RideHailingApp**
-
 **composer install**
 
 **2. Environment Setup**
